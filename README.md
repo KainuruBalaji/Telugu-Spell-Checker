@@ -67,4 +67,4 @@ Once the model exists, you can run the main program.
 
 The full Telugu Wikipedia corpus and the generated `Telugu_WordModel.json` can be found in the GitHub repository for this project.
 
-**Link:** 
+**Link:** https://github.com/KainuruBalaji/Telugu-Spell-Checker.git
