@@ -50,7 +50,7 @@ First, create the spell checker index from the corpus.
     ```bash
     python Model.py
     ```
-3.  This process may take a significant amount of time. Upon completion, a `telugu_word_model.json` file will be created.
+3.  This process may take a significant amount of time. Upon completion, a `Telugu_WordModel.json` file will be created.
 
 ### Step 2: Run the Interactive Spell Checker
 Once the model exists, you can run the main program.
